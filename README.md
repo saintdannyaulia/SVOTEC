@@ -1,4 +1,4 @@
-# 🫀 Early Detection of Cardiovascular Disease using Ensemble Learning
+# 🫀 Smart Early Detection of Cardiovascular Disease using Ensemble Learning
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?logo=python)](https://python.org)
 [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-1.3-orange?logo=scikit-learn)](https://scikit-learn.org)
