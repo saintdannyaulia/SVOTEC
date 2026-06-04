@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-[![XGBoost](https://img.shields.io/badge/XGBoost-189C38?logoColor=white)](https://xgboost.readthedocs.io)
+[![XGBoost](https://custom-icon-badges.demolab.com/badge/XGBoost-189C38?logo=xgboost&logoColor=white)](https://xgboost.readthedocs.io)
 [![Optuna](https://img.shields.io/badge/Optuna-002C76?logo=optuna&logoColor=white)](https://optuna.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io)
 [![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)](https://plotly.com)
