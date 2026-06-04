@@ -1,4 +1,4 @@
-# 🫀 StarLive Voting Optimized Technical Ensemble for Cardio
+# 🫀 StarLive Cardiovascular Risk Prediction System
 
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://python.org)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
